@@ -1,0 +1,5 @@
+C:\Users\koppa\OneDrive\ドキュメント\GitHub\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\BlinkIt.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koppa\OneDrive\ドキュメント\GitHub\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\BlinkIt.Repository.AssemblyInfoInputs.cache
+C:\Users\koppa\OneDrive\ドキュメント\GitHub\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\BlinkIt.Repository.AssemblyInfo.cs
+C:\Users\koppa\OneDrive\ドキュメント\GitHub\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\BlinkIt.Repository.csproj.CoreCompileInputs.cache
+C:\Users\koppa\OneDrive\ドキュメント\GitHub\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\BlinkIt.Repository.sourcelink.json

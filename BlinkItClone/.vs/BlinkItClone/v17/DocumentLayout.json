@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\koppa\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\BlinkItClone\\BlinkItClone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B205E86-F878-49D9-B924-B006AAAE75DA}|BlinkIt.Service\\BlinkIt.Service.csproj|c:\\users\\koppa\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\github\\blinkitclone\\blinkitclone\\blinkit.service\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B205E86-F878-49D9-B924-B006AAAE75DA}|BlinkIt.Service\\BlinkIt.Service.csproj|solutionrelative:blinkit.service\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B7ABFA-58A6-4EB8-BA21-DB232319E36C}|BlinkIt.Gateway\\BlinkIt.Gateway.csproj|c:\\users\\koppa\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\github\\blinkitclone\\blinkitclone\\blinkit.gateway\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B7ABFA-58A6-4EB8-BA21-DB232319E36C}|BlinkIt.Gateway\\BlinkIt.Gateway.csproj|solutionrelative:blinkit.gateway\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C987FD24-0959-4DD0-9616-09C848C990E6}|BlinkIt.Repository\\BlinkIt.Repository.csproj|c:\\users\\koppa\\onedrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\github\\blinkitclone\\blinkitclone\\blinkit.repository\\interfaces\\iblinkitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C987FD24-0959-4DD0-9616-09C848C990E6}|BlinkIt.Repository\\BlinkIt.Repository.csproj|solutionrelative:blinkit.repository\\interfaces\\iblinkitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBlinkItRepository.cs",
+              "DocumentMoniker": "C:\\Users\\koppa\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\BlinkItClone\\BlinkItClone\\BlinkIt.Repository\\Interfaces\\IBlinkItRepository.cs",
+              "RelativeDocumentMoniker": "BlinkIt.Repository\\Interfaces\\IBlinkItRepository.cs",
+              "ToolTip": "C:\\Users\\koppa\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\BlinkItClone\\BlinkItClone\\BlinkIt.Repository\\Interfaces\\IBlinkItRepository.cs",
+              "RelativeToolTip": "BlinkIt.Repository\\Interfaces\\IBlinkItRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T20:47:32.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\koppa\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\BlinkItClone\\BlinkItClone\\BlinkIt.Service\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "BlinkIt.Service\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\koppa\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\BlinkItClone\\BlinkItClone\\BlinkIt.Service\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "BlinkIt.Service\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T20:34:28.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\koppa\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\BlinkItClone\\BlinkItClone\\BlinkIt.Gateway\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BlinkIt.Gateway\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\koppa\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\GitHub\\BlinkItClone\\BlinkItClone\\BlinkIt.Gateway\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BlinkIt.Gateway\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T19:30:52.95Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

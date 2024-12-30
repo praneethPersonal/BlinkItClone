@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KopparapuPraneeth\\OneDrive - Integrate\\Documents\\BlinkIt Clone\\BlinkItClone\\BlinkItClone\\BlinkItClone.csproj": {}
+    "C:\\Users\\koppa\\OneDrive\\ドキュメント\\GitHub\\BlinkItClone\\BlinkItClone\\BlinkItClone\\BlinkItClone.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KopparapuPraneeth\\OneDrive - Integrate\\Documents\\BlinkIt Clone\\BlinkItClone\\BlinkItClone\\BlinkItClone.csproj": {
+    "C:\\Users\\koppa\\OneDrive\\ドキュメント\\GitHub\\BlinkItClone\\BlinkItClone\\BlinkItClone\\BlinkItClone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KopparapuPraneeth\\OneDrive - Integrate\\Documents\\BlinkIt Clone\\BlinkItClone\\BlinkItClone\\BlinkItClone.csproj",
+        "projectUniqueName": "C:\\Users\\koppa\\OneDrive\\ドキュメント\\GitHub\\BlinkItClone\\BlinkItClone\\BlinkItClone\\BlinkItClone.csproj",
         "projectName": "BlinkItClone",
-        "projectPath": "C:\\Users\\KopparapuPraneeth\\OneDrive - Integrate\\Documents\\BlinkIt Clone\\BlinkItClone\\BlinkItClone\\BlinkItClone.csproj",
-        "packagesPath": "C:\\Users\\KopparapuPraneeth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KopparapuPraneeth\\OneDrive - Integrate\\Documents\\BlinkIt Clone\\BlinkItClone\\BlinkItClone\\obj\\",
+        "projectPath": "C:\\Users\\koppa\\OneDrive\\ドキュメント\\GitHub\\BlinkItClone\\BlinkItClone\\BlinkItClone\\BlinkItClone.csproj",
+        "packagesPath": "C:\\Users\\koppa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\koppa\\OneDrive\\ドキュメント\\GitHub\\BlinkItClone\\BlinkItClone\\BlinkItClone\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\KopparapuPraneeth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\koppa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,9 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nexus.integrate.ninja/repository/nuget-group-v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -41,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -83,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlinkItClone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e388ebf6522a027cc1f08b286c5ed703215a964")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlinkItClone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlinkItClone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

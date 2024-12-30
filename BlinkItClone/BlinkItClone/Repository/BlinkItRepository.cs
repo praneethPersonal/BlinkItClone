@@ -8,30 +8,30 @@ namespace BlinkItClone.Repository
         private IMongoDatabase _database; 
         public BlinkItRepository() 
         {
-            var client = new MongoClient("mongodb+srv://kopparapupraneeth2202:praneeth@cluster0.abx1y.mongodb.net/");
-            _database = client.GetDatabase("MyDatabase");
+            var client = new MongoClient("mongodb://praneeth:blinkit@localhost:27017/mydatabase?authSource=admin");
+            _database = client.GetDatabase("blinkit");
         }
         public List<Category> GetCategoryFromRepo()
         {
-            var categories = _database.GetCollection<Category>("ProductCategories");
+            var categories = _database.GetCollection<Category>("categories");
             return categories.Find(_ => true).ToList();
         }
         public async Task AddCategoryAsync(Category category)
         {
-            var categories = _database.GetCollection<Category>("ProductCategories");
+            var categories = _database.GetCollection<Category>("categories");
             // Insert the new category into the collection
             await categories.InsertOneAsync(category);
         }
 
         public List<Product> GetProductByCategoryFromRepo()
         {
-            var products = _database.GetCollection<Product>("Products");
+            var products = _database.GetCollection<Product>("products");
             var productsByCategory = products.Find(iter => true).ToList(); 
             return productsByCategory;
         }
         public Product GetProduct(string productName)
         {
-            var products = _database.GetCollection<Product>("Products");
+            var products = _database.GetCollection<Product>("products");
             var product = products.Find(iter => iter.product_name == productName).ToList();
             if (product.Any())
             {
@@ -44,7 +44,7 @@ namespace BlinkItClone.Repository
         }
         public async Task AddProductAsync(Product product)
         {
-            var products = _database.GetCollection<Product>("Products");
+            var products = _database.GetCollection<Product>("products");
             await products.InsertOneAsync(product);
         }
 

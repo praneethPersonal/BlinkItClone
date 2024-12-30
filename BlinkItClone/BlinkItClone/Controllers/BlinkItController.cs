@@ -1,10 +1,9 @@
-﻿using BlinkItClone.Model;
+﻿using System.Security.Claims;
+using BlinkItClone.Model;
 using BlinkItClone.Services;
 using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
 using MongoDB.Driver;
-using System.Security.Claims;
 
 namespace BlinkItClone.Controllers
 {
@@ -74,7 +73,7 @@ namespace BlinkItClone.Controllers
         [HttpPost("addProduct")]
         public async Task<IActionResult> AddProduct([FromBody] Product product)
         {
-            if (string.IsNullOrEmpty(product.product_name) || string.IsNullOrEmpty(product.category_id) || product.price <= 0 || product.stock < 0)
+            if (string.IsNullOrEmpty(product.product_name) ||  product.price <= 0 || product.stock < 0)
             {
                 return BadRequest("Invalid product data.");
             }
