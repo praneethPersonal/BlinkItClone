@@ -300,6 +300,10 @@
       "BlinkIt.Repository/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MongoDB.Bson": "2.29.0",
+          "MongoDB.Driver": "2.29.0"
+        },
         "compile": {
           "bin/placeholder/BlinkIt.Repository.dll": {}
         },
@@ -877,5 +881,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\BlinkIt Clone\\BlinkItClone\\BlinkItClone\\BlinkIt.Service\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

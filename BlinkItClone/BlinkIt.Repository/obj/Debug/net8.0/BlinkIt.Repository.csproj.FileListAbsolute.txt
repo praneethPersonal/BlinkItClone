@@ -3,3 +3,34 @@ C:\Users\koppa\OneDrive\ドキュメント\GitHub\BlinkItClone\BlinkItClone\Blin
 C:\Users\koppa\OneDrive\ドキュメント\GitHub\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\BlinkIt.Repository.AssemblyInfo.cs
 C:\Users\koppa\OneDrive\ドキュメント\GitHub\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\BlinkIt.Repository.csproj.CoreCompileInputs.cache
 C:\Users\koppa\OneDrive\ドキュメント\GitHub\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\BlinkIt.Repository.sourcelink.json
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\BlinkIt.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\BlinkIt.Repository.AssemblyInfoInputs.cache
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\BlinkIt.Repository.AssemblyInfo.cs
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\BlinkIt.Repository.csproj.CoreCompileInputs.cache
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\BlinkIt.Repository.sourcelink.json
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\BlinkIt.Repository.csproj.AssemblyReference.cache
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\bin\Debug\net8.0\BlinkIt.Repository.exe
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\bin\Debug\net8.0\BlinkIt.Repository.deps.json
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\bin\Debug\net8.0\BlinkIt.Repository.runtimeconfig.json
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\bin\Debug\net8.0\BlinkIt.Repository.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\bin\Debug\net8.0\BlinkIt.Repository.pdb
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\bin\Debug\net8.0\MongoDB.Bson.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\BlinkIt..7BE22F06.Up2Date
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\BlinkIt.Repository.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\refint\BlinkIt.Repository.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\BlinkIt.Repository.pdb
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\BlinkIt.Repository.genruntimeconfig.cache
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\obj\Debug\net8.0\ref\BlinkIt.Repository.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\bin\Debug\net8.0\AWSSDK.Core.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\bin\Debug\net8.0\DnsClient.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\bin\Debug\net8.0\MongoDB.Driver.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\bin\Debug\net8.0\SharpCompress.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\bin\Debug\net8.0\Snappier.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\bin\Debug\net8.0\ZstdSharp.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Repository\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nLSafNgpVNk=",
+  "dgSpecHash": "r+gX9XUtB5w=",
   "success": true,
   "projectFilePath": "E:\\BlinkIt Clone\\BlinkItClone\\BlinkItClone\\BlinkIt.Service\\BlinkIt.Service.csproj",
   "expectedPackageFiles": [
@@ -23,5 +23,12 @@
     "C:\\Users\\koppa\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\koppa\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\BlinkIt Clone\\BlinkItClone\\BlinkItClone\\BlinkIt.Service\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

@@ -4,3 +4,39 @@ C:\Users\koppa\OneDrive\ドキュメント\GitHub\BlinkItClone\BlinkItClone\Blin
 C:\Users\koppa\OneDrive\ドキュメント\GitHub\BlinkItClone\BlinkItClone\BlinkIt.Service\obj\Debug\net8.0\BlinkIt.Service.AssemblyInfo.cs
 C:\Users\koppa\OneDrive\ドキュメント\GitHub\BlinkItClone\BlinkItClone\BlinkIt.Service\obj\Debug\net8.0\BlinkIt.Service.csproj.CoreCompileInputs.cache
 C:\Users\koppa\OneDrive\ドキュメント\GitHub\BlinkItClone\BlinkItClone\BlinkIt.Service\obj\Debug\net8.0\BlinkIt.Service.sourcelink.json
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\obj\Debug\net8.0\BlinkIt.Service.csproj.AssemblyReference.cache
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\obj\Debug\net8.0\BlinkIt.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\obj\Debug\net8.0\BlinkIt.Service.AssemblyInfoInputs.cache
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\obj\Debug\net8.0\BlinkIt.Service.AssemblyInfo.cs
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\obj\Debug\net8.0\BlinkIt.Service.csproj.CoreCompileInputs.cache
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\obj\Debug\net8.0\BlinkIt.Service.sourcelink.json
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\BlinkIt.Repository.deps.json
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\BlinkIt.Repository.runtimeconfig.json
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\BlinkIt.Repository.exe
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\BlinkIt.Service.exe
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\BlinkIt.Service.deps.json
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\BlinkIt.Service.runtimeconfig.json
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\BlinkIt.Service.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\BlinkIt.Service.pdb
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\AWSSDK.Core.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\DnsClient.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\MongoDB.Bson.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\MongoDB.Driver.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\SharpCompress.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\Snappier.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\ZstdSharp.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\BlinkIt.Repository.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\bin\Debug\net8.0\BlinkIt.Repository.pdb
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\obj\Debug\net8.0\BlinkIt..67A3C926.Up2Date
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\obj\Debug\net8.0\BlinkIt.Service.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\obj\Debug\net8.0\refint\BlinkIt.Service.dll
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\obj\Debug\net8.0\BlinkIt.Service.pdb
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\obj\Debug\net8.0\BlinkIt.Service.genruntimeconfig.cache
+E:\BlinkIt Clone\BlinkItClone\BlinkItClone\BlinkIt.Service\obj\Debug\net8.0\ref\BlinkIt.Service.dll

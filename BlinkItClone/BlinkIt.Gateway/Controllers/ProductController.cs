@@ -15,7 +15,7 @@ namespace BlinkIt.Gateway.Controllers
         }
 
         [HttpGet("products")]
-        public IActionResult GetProductsByCategory()
+        public async Task<IActionResult> GetProductsByCategory()
         {
             var products = _productService.GetProductByCategory();
 
@@ -29,7 +29,7 @@ namespace BlinkIt.Gateway.Controllers
         public IActionResult GetProductDetails([FromQuery] string productName)
         {
             var product = _productService.GetProductDetails(productName);
-            if (product == null)
+            if (product is null)
             {
                 return NotFound("Product not found.");
             }

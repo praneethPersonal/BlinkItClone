@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ddJR0OgZYhYy2+Hq7IHZMvZTF0Jthb9+Go24wB00kxw=",
+  "Source": "BlinkIt.Gateway",
+  "BasePath": "_content/BlinkIt.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "UaMYS1iNF+dooYyrRcVsR/UsmhSDq3t4n4cQQADTOog=",
+  "Hash": "tv7De+aJTTESPUVtgodAMrdi+/6NKlZQwlBSvqX+O2g=",
   "Source": "BlinkItClone",
   "BasePath": "_content/BlinkItClone",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

@@ -1,6 +1,6 @@
 ﻿using BlinkIt.Repository.Interfaces;
 using BlinkIt.Service.Interfaces;
-using BlinkIt.Service.Models;
+using BlinkIt.Repository.Models;
 
 namespace BlinkIt.Service.Implementation
 {

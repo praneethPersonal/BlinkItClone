@@ -1,8 +1,8 @@
-﻿using BlinkIt.Service.Models;
+﻿using BlinkIt.Repository.Models;
 
 namespace BlinkIt.Service.Interfaces
 {
-    public interface IProductService
+    public  interface IProductService
     {
         public List<Product> GetProductByCategory();
 

@@ -87,7 +87,6 @@ app.MapPost("/api/BlinkIt/validateToken", (HttpContext context) =>
 })
 .RequireAuthorization();
 
-
 app.MapControllers();
 
 app.Run();

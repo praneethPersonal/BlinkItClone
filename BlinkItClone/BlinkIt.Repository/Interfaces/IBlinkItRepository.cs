@@ -1,4 +1,4 @@
-﻿
+﻿using BlinkIt.Repository.Models;
 
 namespace BlinkIt.Repository.Interfaces
 {
@@ -7,5 +7,6 @@ namespace BlinkIt.Repository.Interfaces
         public List<Product> GetProductByCategoryFromRepo();
 
         public Product GetProduct(string productId);
+        public List<Category> GetCategoryFromRepo();
     }
 }

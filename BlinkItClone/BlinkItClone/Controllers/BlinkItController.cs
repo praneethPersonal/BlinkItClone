@@ -49,7 +49,8 @@ namespace BlinkItClone.Controllers
             }
             return Ok(product);
         }
-
+        
+        //not neccessary
         [HttpPost("addCategory")]
         public async Task<IActionResult> AddCategory([FromBody] Category category)
         {
@@ -139,6 +140,7 @@ namespace BlinkItClone.Controllers
 
             return Unauthorized(new { Message = message });
         }
+        
         [HttpPost("signUp")]
         public async Task<IActionResult> SignUp([FromBody] LoginRequest loginRequest)
         {
