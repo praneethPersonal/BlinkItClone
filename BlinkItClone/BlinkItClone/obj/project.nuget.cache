@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ApW0rZBIYQk=",
+  "dgSpecHash": "ENdZY8qzDeQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\koppa\\OneDrive\\ドキュメント\\GitHub\\BlinkItClone\\BlinkItClone\\BlinkItClone\\BlinkItClone.csproj",
+  "projectFilePath": "E:\\BlinkIt Clone\\BlinkItClone\\BlinkItClone\\BlinkItClone\\BlinkItClone.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\koppa\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\koppa\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
