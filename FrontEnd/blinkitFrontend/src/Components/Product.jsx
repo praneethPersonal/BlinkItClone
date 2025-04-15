@@ -18,7 +18,7 @@ export function Product({isLoggedIn,setShowLoginDialog,setIsLoggedIn,showLoginDi
    
     console.log(productName,"name")
     const fetchData1 = async () => {
-        const response = await fetch("https://localhost:7081/api/BlinkIt/category");
+        const response = await fetch("http://localhost:5017/api/blinkit/Category/category");
         const data = await response.json();  
         return data;
     };

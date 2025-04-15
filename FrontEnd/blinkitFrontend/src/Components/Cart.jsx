@@ -105,7 +105,7 @@ export function CartSideBar({isCartOpen,setIsCartOpen,isLoggedIn, setShowLoginDi
   // const data = fetchCartData();
 
   const fetchData2 = async () => {
-    const response = await fetch("https://localhost:5017/api/BlinkIt/products");
+    const response = await fetch("http://localhost:5017/api/blinkit/Product/products");
     const data = await response.json();
     return data;
   };

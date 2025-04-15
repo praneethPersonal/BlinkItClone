@@ -74,7 +74,7 @@ export function ProfilePage({isLoggedIn,setShowLoginDialog,setIsLoggedIn,showLog
    
 
     const fetchData2 = async () => {
-        const response = await fetch("https://localhost:7081/api/BlinkIt/products");
+        const response = await fetch("http://localhost:5017/api/blinkit/Product/products");
         const data = await response.json();
         return data;
       };

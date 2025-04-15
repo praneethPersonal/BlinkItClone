@@ -105,13 +105,13 @@ export function CategoryPage({isLoggedIn,setShowLoginDialog,setIsLoggedIn,showLo
     queryClient.invalidateQueries(["fetchingfrombackendForCart"]);
   };
   const fetchData1 = async () => {
-    const response = await fetch("https://localhost:5017/api/BlinkIt/category");
+    const response = await fetch("http://localhost:5017/api/blinkit/Category/category");
     const data = await response.json();
     return data;
   };
 
   const fetchData2 = async () => {
-    const response = await fetch("https://localhost:5017/api/BlinkIt/products");
+    const response = await fetch("http://localhost:5017/api/blinkit/Product/products");
     const data = await response.json();
     return data;
   };
